@@ -18,4 +18,4 @@ Thinking...
 ![](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) 
 
 ## Databases
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Cloud%20Firestore-%231C73E8.svg?&style=for-the-badge&logo=firebase&logoColor=FFCB2B)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
