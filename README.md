@@ -1,16 +1,12 @@
 ## About
-I like building things that people use.
+Thinking...
 
 ## Links
 
-- Website: https://benbotvinick.com
-- LinkedIn: https://linkedin.com/in/botv
-- Stack Overflow: https://stackoverflow.com/users/10056034/ben-botvinick
-- Instagram: https://instagram.com/botvinix
-- Facebook: https://facebook.com/botvinick
-
-## Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=botv&count_private=true&show_icons=true&title_color=41b883&icon_color=41b883&text_color=fffefe&bg_color=273849)](https://github.com/anuraghazra/github-readme-stats)
+- Website: https://denke.io
+- LinkedIn: https://linkedin.com/in/jacksondenke
+- Stack Overflow: https://stackoverflow.com/users/15134373/jackson-denke
+- Instagram: https://instagram.com/jacksonmdenke
 
 ## Languages
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/swift-%23FC3726.svg?&style=for-the-badge&logo=swift&logoColor=white) ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
