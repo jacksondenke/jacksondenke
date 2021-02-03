@@ -15,7 +15,7 @@ Thinking...
 ![](https://img.shields.io/badge/react%20-%23404d59.svg?&style=for-the-badge&logo=react) ![](https://img.shields.io/badge/bootstrap%20-%237852B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js) ![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=node.js)
 
 ## Hosting
-![](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) ![](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)
+![](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) 
 
 ## Databases
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Cloud%20Firestore-%231C73E8.svg?&style=for-the-badge&logo=firebase&logoColor=FFCB2B)
