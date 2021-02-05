@@ -7,6 +7,7 @@ Thinking... (I work mostly offline, excuse my lack of contributions!)
 - LinkedIn: https://linkedin.com/in/jacksondenke
 - Stack Overflow: https://stackoverflow.com/users/15134373/jackson-denke
 - Instagram: https://instagram.com/jacksonmdenke
+- Twitter: https://twitter.com/jacksondenke
 
 ## Languages
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
