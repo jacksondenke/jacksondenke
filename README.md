@@ -1,5 +1,5 @@
 ## About
-Thinking... (I work mostly offline, excuse my lack of contributions!)
+Paradigm.
 
 ## Links
 
