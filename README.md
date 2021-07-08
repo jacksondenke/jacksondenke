@@ -1,5 +1,5 @@
 ## About
-Paradigm.
+Paradigm. (Concept from 05/18/20)
 
 ## Links
 
